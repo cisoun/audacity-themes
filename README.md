@@ -21,7 +21,7 @@ and append the following to 'audacity.cfg':
 LoadAtStart=1
 ```
 
-Also, while in the audacity data directory create a folder called 'Theme' and place in it the ImageCache of your desired theme, renamed to 'ImageCache.png', and restart Audacity. Magic!
+Also, while you're still in audacity's data directory, create a folder called 'Theme' and put into it the ImageCache.png file of your desired theme and restart Audacity. Magic!
 
 
 Themes
